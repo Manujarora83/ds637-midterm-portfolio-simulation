@@ -52,7 +52,6 @@ yfinance or CSV-based price data
 
 Jupyter Notebook
 
-📁 Repository Structure
 /
 │
 ├── notebooks/
@@ -70,6 +69,7 @@ Jupyter Notebook
 │   └── portfolio_value.png
 │
 └── README.md
+
 
 📈 Key Components
 1️⃣ Data Wrangling
